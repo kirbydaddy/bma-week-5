@@ -8,7 +8,7 @@ public class Assignment {
 
 	}
 	
-	public static String getElement(String values, int index) {
+	public static String getElement(String[] values, int index) {
 		
 	}
 
