@@ -10,6 +10,11 @@ public class Assignment {
 	
 	public static String getElement(String[] values, int index) {
 		
+		if (index < String.length){
+			println ("Hey, this is not a valid index");
+			return null;
+		}
+		
 	}
 
 }
