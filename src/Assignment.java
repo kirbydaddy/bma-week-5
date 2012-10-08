@@ -1,4 +1,3 @@
-
 public class Assignment {
 
 	/**
@@ -7,6 +6,10 @@ public class Assignment {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+	}
+	
+	public static String getElement(String values, int index) {
+		
 	}
 
 }
